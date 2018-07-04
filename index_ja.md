@@ -1,20 +1,12 @@
-[ja](index_ja.md)/[**en**](index.md)
+[**ja**](index_ja.md)/[en](index.md)
 
-[Blog](http://musaprg.hatenablog.com)
+# 井上 紘太朗
 
-# Kotaro Inoue
+## 経歴
 
-## Education
+## SNS等のリンク
 
-## Work Experience
-
-## Honor & Awards
-
-## Language & Skills
-
-## Social Accounts
-
-NOTE: Basically I take my account as `musaprg`.
+基本的にはすべて `musaprg` で統一しています。
 
 Twitter: [@musaprg](https://twitter.com/musaprg)
 

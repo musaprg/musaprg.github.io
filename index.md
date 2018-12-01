@@ -1,6 +1,7 @@
 # Kotaro Inoue
 
 <a href="https://twitter.com/musaprg?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @musaprg</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="github-button" href="https://github.com/musaprg" aria-label="Follow @musaprg on GitHub">Follow @musaprg</a>
 
 (wanna be) Software Engineer
 
@@ -122,3 +123,10 @@ NOTE: Basically I take my account as `musaprg`.
 - [CS Academy](https://csacademy.com/user/musaprg)
 
 - [Kaggle](https://www.kaggle.com/musa11)
+
+
+
+
+
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>

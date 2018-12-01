@@ -96,6 +96,10 @@ N/A
 - Haskell
 - TypeScript
 
+## Activities
+
+![](https://projecteuler.net/profile/musaprg.png)
+
 ## Links
 
 NOTE: Basically I take my account as `musaprg`.

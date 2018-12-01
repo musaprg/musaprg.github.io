@@ -106,10 +106,6 @@ NOTE: Basically I take my account as `musaprg`.
 
 - [Blog](http://musaprg.hatenablog.com)
 
-- [Twitter](https://twitter.com/musaprg)
-
-- [GitHub](https://github.com/musaprg)
-
 - [Facebook](https://www.facebook.com/musaprg)
 
 - [LinkedIn](https://www.linkedin.com/in/musaprg)

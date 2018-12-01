@@ -8,7 +8,7 @@
 
 - Computer Vision
 - Container
-- Virtualization
+- Automation
 - Compiler
 
 ## Education

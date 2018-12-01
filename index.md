@@ -112,7 +112,7 @@ NOTE: Basically I take my account as `musaprg`.
 
 - [SpeakerDeck](https://speakerdeck.com/musaprg)
 
-- [LeetCode](https://leetcode.com/musaprg)
+### Competitive Programming
 
 - [AtCoder](https://atcoder.jp/user/musaprg)
 
@@ -121,5 +121,7 @@ NOTE: Basically I take my account as `musaprg`.
 - [HackerRank](https://www.hackerrank.com/musaprg)
 
 - [CS Academy](https://csacademy.com/user/musaprg)
+
+- [LeetCode](https://leetcode.com/musaprg)
 
 - [Kaggle](https://www.kaggle.com/musa11)

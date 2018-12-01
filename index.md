@@ -1,5 +1,7 @@
 # Kotaro Inoue
 
+<a href="https://twitter.com/musaprg?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @musaprg</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 (wanna be) Software Engineer
 
 [<img src="https://grass-graph.moshimo.works/images/musaprg.png">](https://github.com/musaprg)

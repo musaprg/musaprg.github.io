@@ -1,7 +1,7 @@
 # Kotaro Inoue
 
-<a href="https://twitter.com/musaprg?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @musaprg</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a class="github-button" href="https://github.com/musaprg" aria-label="Follow @musaprg on GitHub">Follow @musaprg</a>
+<a href="https://twitter.com/musaprg?ref_src=twsrc%5Etfw" class="twitter-follow-button">Follow @musaprg</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="github-button" href="https://github.com/musaprg" data-show-count="true" aria-label="Follow @musaprg on GitHub">Follow @musaprg</a>
 
 (wanna be) Software Engineer
 

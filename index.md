@@ -83,6 +83,7 @@ N/A
 
 - Scala
 - Haskell
+- TypeScript
 
 ## Links
 

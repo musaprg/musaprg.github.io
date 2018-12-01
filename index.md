@@ -1,8 +1,6 @@
-[ja](index_ja.md)/[**en**](index.md)
-
-[Blog](http://musaprg.hatenablog.com)
-
 # Kotaro Inoue
+
+<img src="https://grass-graph.moshimo.works/images/musaprg.png">
 
 ## Education
 
@@ -12,18 +10,31 @@
 
 ## Language & Skills
 
-## Social Accounts
+
+## Links
 
 NOTE: Basically I take my account as `musaprg`.
 
-Twitter: [@musaprg](https://twitter.com/musaprg)
+- [Blog](http://musaprg.hatenablog.com)
 
-GitHub: [musaprg](https://github.com/musaprg)
+- [Twitter](https://twitter.com/musaprg)
 
-<img src="https://grass-graph.moshimo.works/images/musaprg.png">
+- [GitHub](https://github.com/musaprg)
 
-Facebook: [musaprg](https://www.facebook.com/musaprg)
+- [Facebook](https://www.facebook.com/musaprg)
 
-LinkedIn: [musaprg](https://www.linkedin.com/in/musaprg)
+- [LinkedIn](https://www.linkedin.com/in/musaprg)
 
-SpeakerDeck: [musaprg](https://speakerdeck.com/musaprg)
+- [SpeakerDeck](https://speakerdeck.com/musaprg)
+
+- [LeetCode](https://leetcode.com/musaprg)
+
+- [AtCoder](https://atcoder.jp/user/musaprg)
+
+- [Codeforces](https://www.topcoder.com/members/musaprg)
+
+- [HackerRank](https://www.hackerrank.com/musaprg)
+
+- [CS Academy](https://csacademy.com/user/musaprg)
+
+- [Kaggle](https://www.kaggle.com/musa11)

@@ -45,11 +45,19 @@ N/A
 
 - 2017 - 2018 : 51st President of MIS.W (Management and Information Society of Waseda University)
 
-## Honor & Awards
+## Licenses and Certifications
+
+- TOEIC 770
+- Class 1 ordinary vehicle
 
 ## Skills
 
-## Language
+- Linux
+- Web Development
+- iOS Development
+- Machine Learning
+
+## Programming Language
 
 ### Love <3
 

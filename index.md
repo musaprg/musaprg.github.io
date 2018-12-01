@@ -7,13 +7,16 @@
 ## Education
 
 - 2016 - present
+
 Waseda University
-Department of Computer Science and Engineering [HP](http://www.cs.waseda.ac.jp/en/)
+Department of Computer Science and Engineering
 
 - 2013 - 2016
-Waseda University Honjo Senior High School [HP](https://waseda-honjo.jp/index.html)
+
+Waseda University Honjo Senior High School
 
 - 2010 - 2013
+
 Hatara Junior High School
 
 ## Work Experience
@@ -52,12 +55,10 @@ Hatara Junior High School
 - OCaml
 - FORTRAN77
 
-### Not like
+### Interested
 
-PHP, Java
-
-### Don't know
-
+- Scala
+- Haskell
 
 ## Links
 

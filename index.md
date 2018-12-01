@@ -2,7 +2,7 @@
 
 # Kotaro Inoue
 
-<img src="https://grass-graph.moshimo.works/images/musaprg.png">
+[<img src="https://grass-graph.moshimo.works/images/musaprg.png">](https://github.com/musaprg)
 
 ## Education
 

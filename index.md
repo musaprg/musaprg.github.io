@@ -21,6 +21,14 @@ Hatara Junior High School
 
 ## Work Experience
 
+## Other Experience
+
+### 51st President of MIS.W (Management and Information Society of Waseda University)
+
+[HP](https://misw.jp) [Blog](https://blog.misw.jp)
+
+MIS.W is student creator club. Programmers, Graphic Artists, Composers and other various artists come and join the club, and they create awesome things everyday. Some of them often make team and create Games, Apps, Compilation Album, Fan Fiction Books and so on.
+
 ## Honor & Awards
 
 ## Skills
@@ -59,6 +67,7 @@ Hatara Junior High School
 
 - Scala
 - Haskell
+
 
 ## Links
 

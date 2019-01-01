@@ -50,7 +50,7 @@ N/A
 
 ## Licenses and Certifications
 
-- TOEIC 770
+- TOEIC 820
 - Class 1 ordinary vehicle
 
 ## Skills

@@ -112,6 +112,8 @@ NOTE: Basically I take my account as `musaprg`.
 
 - [SpeakerDeck](https://speakerdeck.com/musaprg)
 
+- [WakaTime](https://wakatime.com/@musaprg)
+
 ### Competitive Programming
 
 - [AtCoder](https://atcoder.jp/user/musaprg)

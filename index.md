@@ -28,6 +28,8 @@ N/A
 
 ### Internship
 
+- Aug 2018 - Current : Lead Engineer at SurveyBox Inc.
+
 - Oct 2018 - Nov 2018 (1month) : Software Engineer at Recruit Lifestyle Co., Ltd.
 
 - Sep 2018 (2week) : Server Side Engineer at Drecom Co., Ltd.

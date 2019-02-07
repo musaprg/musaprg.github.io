@@ -102,7 +102,7 @@ N/A
 
 ![](https://projecteuler.net/profile/musaprg.png)
 
-## Links
+## Links 🔗
 
 NOTE: Basically I take my account as `musaprg`.
 
@@ -115,6 +115,12 @@ NOTE: Basically I take my account as `musaprg`.
 - [SpeakerDeck](https://speakerdeck.com/musaprg)
 
 - [WakaTime](https://wakatime.com/@musaprg)
+
+### Donate 💰
+
+- [Paypal.Me](https://paypal.me/musaprg?locale.x=ja_JP)
+
+- [Amazon.co.jp WishList](https://amzn.to/2yBHtl3)
 
 ### Competitive Programming
 

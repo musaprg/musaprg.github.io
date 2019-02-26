@@ -16,7 +16,7 @@
 
 ## Education
 
-- 2016 - present : Waseda University Department of Computer Science and Engineering
+- **2016 - present : Waseda University Department of Computer Science and Engineering**
 
 - 2013 - 2016 : Waseda University Honjo Senior High School
 
@@ -24,21 +24,27 @@
 
 ## Work Experience
 
-N/A
+- **Aug 2018 - present : Lead Engineer at SurveyBox Inc.**
 
 ### Internship
 
-- Aug 2018 - Current : Lead Engineer at SurveyBox Inc.
+- Feb 2019 - Mar 2019 (1month) : AbemaTV Inc.
 
-- Oct 2018 - Nov 2018 (1month) : Software Engineer at Recruit Lifestyle Co., Ltd.
+- Oct 2018 - Nov 2018 (1month) : Recruit Lifestyle Co., Ltd.
 
-- Sep 2018 (2week) : Server Side Engineer at Drecom Co., Ltd.
+- Sep 2018 (2week) : Drecom Co., Ltd.
 
-- Sep 2018 (1week) : Software Engineer at Cybozu Inc.
+- Sep 2018 (1week) : Cybozu Inc. [blog](https://musaprg.hatenablog.com/entry/2018/09/18/191528)
+
+- Aug 2018 (5days) : Cookpad Inc. [blog](https://musaprg.hatenablog.com/entry/2018/08/25/013419)
+
+- Aug 2018 (2days) : Akatsuki Inc. [blog](https://musaprg.hatenablog.com/entry/2018/10/14/163249)
+
+- Aug 2018 (3days) : DeNA Inc. [blog](https://musaprg.hatenablog.com/entry/2018/08/21/221407)
 
 ### Part-time Job
 
-- 2016 - present : Software Engineer at Metadata Inc.
+- 2016 - present : Machine Learning Engineer at Metadata Inc.
 
 - Jan 2018 - Dec 2018 : Software Engineer at The Nikkei
 

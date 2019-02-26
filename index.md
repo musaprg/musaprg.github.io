@@ -16,7 +16,8 @@
 
 ## Education
 
-- **2016 - present : Waseda University Department of Computer Science and Engineering**
+- **2016 - present : Waseda University**  
+Bachelor of Engineering, Computer Science and Engineering
 
 - 2013 - 2016 : Waseda University Honjo Senior High School
 

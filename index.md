@@ -24,37 +24,27 @@
 
 ## Work Experience
 
-- **Aug 2018 - present : Lead Engineer at SurveyBox Inc.**
-
 ### Internship
 
-- Feb 2019 - Mar 2019 (1month) : AbemaTV Inc.
+- **Aug 2018 - present : Lead Engineer at SurveyBox Inc.**
 
-- Oct 2018 - Nov 2018 (1month) : Recruit Lifestyle Co., Ltd.
+- **Aug 2016 - present : Machine Learning Engineer at Metadata Inc.**
 
-- Sep 2018 (2week) : Drecom Co., Ltd.
+- Feb 2019 - Mar 2019 (1month) : Software Engineer at AbemaTV Inc.
 
-- Sep 2018 (1week) : Cybozu Inc. [blog](https://musaprg.hatenablog.com/entry/2018/09/18/191528)
+- Oct 2018 - Nov 2018 (1month) : Software Engineer at Recruit Lifestyle Co., Ltd.
 
-- Aug 2018 (5days) : Cookpad Inc. [blog](https://musaprg.hatenablog.com/entry/2018/08/25/013419)
-
-- Aug 2018 (2days) : Akatsuki Inc. [blog](https://musaprg.hatenablog.com/entry/2018/10/14/163249)
-
-- Aug 2018 (3days) : DeNA Inc. [blog](https://musaprg.hatenablog.com/entry/2018/08/21/221407)
-
-### Part-time Job
-
-- 2016 - present : Machine Learning Engineer at Metadata Inc.
+- Sep 2018 (2week) : Software Engineer at Drecom Co., Ltd.
 
 - Jan 2018 - Dec 2018 : Software Engineer at The Nikkei
 
 - Aug 2018 (1week) : Software Engineer at inspec Inc.
 
-- 2015 - 2017 : Software engineer at DogHuggy Inc.
+- Dec 2015 - Dec 2017 : Software engineer at DogHuggy Inc.
 
 ## Other Experience
 
-- 2017 - 2018 : 51st President of MIS.W (Management and Information Society of Waseda University)
+- Dec 2017 - Dec 2018 : 51st President of MIS.W (Management and Information Society of Waseda University)
 
 ## Licenses and Certifications
 

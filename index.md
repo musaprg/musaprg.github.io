@@ -12,7 +12,6 @@
 - Computer Vision
 - Container
 - Automation
-- Compiler
 
 ## Education
 
@@ -29,7 +28,9 @@ Bachelor of Engineering, Computer Science and Engineering
 
 - **Aug 2018 - present : Lead Engineer at SurveyBox Inc.**
 
-- **Aug 2016 - present : Machine Learning Engineer at Metadata Inc.**
+- **Mar 2018 - present : Site Reliability Engineer at Cookpad Inc.**
+
+- **Aug 2016 - present (inactive) : Machine Learning Engineer at Metadata Inc.**
 
 - Feb 2019 - Mar 2019 (1month) : Software Engineer at AbemaTV Inc.
 

@@ -28,7 +28,7 @@ Bachelor of Engineering, Computer Science and Engineering
 
 - **Aug 2018 - present : Lead Engineer at SurveyBox Inc.**
 
-- **Mar 2018 - present : Site Reliability Engineer at Cookpad Inc.**
+- **Mar 2019 - present : Site Reliability Engineer at Cookpad Inc.**
 
 - **Aug 2016 - present (inactive) : Machine Learning Engineer at Metadata Inc.**
 
@@ -58,6 +58,8 @@ Bachelor of Engineering, Computer Science and Engineering
 - Linux
 - Web Development
 - iOS Development
+- IoT Development
+- DevOps
 - Machine Learning
 
 ## Programming Language
@@ -68,11 +70,12 @@ Bachelor of Engineering, Computer Science and Engineering
 
 ### Used as part of Work
 
+- Golang
 - Java
-- Swift
-- Ruby
 - JavaScript
 - PHP
+- Ruby
+- Swift
 
 ### Used as part of hobby
 
@@ -81,19 +84,18 @@ Bachelor of Engineering, Computer Science and Engineering
 - C
 - C++
 - C#
-- Golang
 - Rust
 
 ### Learned in class
 
-- R
-- OCaml
 - FORTRAN77
+- OCaml
+- R
 
 ### Interested
 
-- Scala
 - Haskell
+- Scala
 - TypeScript
 
 ## Activities

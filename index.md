@@ -134,7 +134,7 @@ NOTE: Basically I take my account as `musaprg`.
 
 - [Aizu Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=musaprg)
 
-- [AOJ-ICPC](http://aoj-icpc.ichyo.jp/?aoj_rivals=&sort2_order=desc&year_max=&sort2_by=num_aoj_acceptances&aoj_username=musaprg&point_max=1200&sort1_order=asc&show_unsolved=1&source2=1&source3=1&exclude_nonAOJ=1&source1=1&point_min=100&source4=1&year_min=&sort1_by=point)
+- [AOJ-ICPC](http://aoj-icpc.ichyo.jp/?aoj_rivals=&sort2_order=desc&year_max=&source4=1&aoj_username=musaprg&point_max=1200&sort1_order=asc&source2=1&source3=1&exclude_nonAOJ=1&source1=1&point_min=100&sort2_by=num_aoj_acceptances&year_min=&sort1_by=point)
 
 - [HackerRank](https://www.hackerrank.com/musaprg)
 

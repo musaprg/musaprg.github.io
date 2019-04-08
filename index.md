@@ -118,6 +118,8 @@ NOTE: Basically I take my account as `musaprg`.
 
 - [WakaTime](https://wakatime.com/@musaprg)
 
+- [Cookpad My Kitchen](https://cookpad.com/kitchen/29779259)
+
 ### Donate 💰
 
 - [Paypal.Me](https://paypal.me/musaprg?locale.x=ja_JP)

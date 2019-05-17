@@ -9,8 +9,8 @@
 
 ## Interests
 
+- Distributed System
 - Computer Vision
-- Container
 - Automation
 
 ## Education

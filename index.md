@@ -116,7 +116,7 @@ NOTE: Basically I take my account as `musaprg`.
 
 - [SpeakerDeck](https://speakerdeck.com/musaprg)
 
-- [WakaTime](https://wakatime.com/@musaprg)
+- [ResearchGate](https://www.researchgate.net/profile/Kotaro_Inoue4)
 
 - [Cookpad My Kitchen](https://cookpad.com/kitchen/29779259)
 

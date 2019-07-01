@@ -101,8 +101,10 @@ Bachelor of Engineering, Computer Science and Engineering
 - TypeScript
 
 ## Activities
-
-![](https://projecteuler.net/profile/musaprg.png)
+#### 2018
+- 2018/7/6  [ACM-ICPC Japan Online First-Round Contest](https://icpc.iisf.or.jp/2018-yokohama/1st-round-result/) (team: ultrafastparrot, 67th)
+#### 2017
+- 2017/7/14 [ACM-ICPC Japan Online First-Round Contest](https://icpc.iisf.or.jp/2017-tsukuba/results/) (team: ky0sh1n, 65th)
 
 ## Links 🔗
 

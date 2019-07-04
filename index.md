@@ -106,6 +106,11 @@ Bachelor of Engineering, Computer Science and Engineering
 #### 2017
 - 2017/7/14 [ACM-ICPC Japan Online First-Round Contest](https://icpc.iisf.or.jp/2017-tsukuba/results/) (team: ky0sh1n, 65th)
 
+## Badges
+![](https://data.typeracer.com/misc/badge?user=musaprg)
+
+![](https://projecteuler.net/profile/musaprg.png)
+
 ## Links 🔗
 
 NOTE: Basically I take my account as `musaprg`.

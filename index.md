@@ -101,12 +101,18 @@ Bachelor of Engineering, Computer Science and Engineering
 - TypeScript
 
 ## Activities
+
 #### 2019
+
 - 2019/7/27 1st Waseda University Data Science Competition 日立製作所賞（比例部門） (team: グレートWCEおよび北MIS.W連合王国)
 - 2019/7/12 [ACM-ICPC Japan Online First-Round Contest](https://icpc.iisf.or.jp/2019-yokohama/first-round-result/) (team: geek_learning, 162nd)
+
 #### 2018
+
 - 2018/7/6  [ACM-ICPC Japan Online First-Round Contest](https://icpc.iisf.or.jp/2018-yokohama/1st-round-result/) (team: ultrafastparrot, 67th)
+
 #### 2017
+
 - 2017/7/14 [ACM-ICPC Japan Online First-Round Contest](https://icpc.iisf.or.jp/2017-tsukuba/results/) (team: ky0sh1n, 65th)
 
 ## Badges

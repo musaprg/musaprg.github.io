@@ -52,7 +52,8 @@ Bachelor of Engineering, Computer Science and Engineering
 ## Licenses and Certifications
 
 ### Licenses
-- TOEIC 820
+- TOEIC 820 (L:405, R:415)
+- TOEFL 60 (R:17,L:12,S:15,W:16)
 - Class 1 ordinary vehicle
 
 ## Skills

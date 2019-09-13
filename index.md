@@ -163,7 +163,7 @@ NOTE: Basically I take my account as `musaprg`.
 
 - [Kaggle](https://www.kaggle.com/musaprg)
 
-## GPG Key
+## PGP Public Key
 ### Fingerprint
 > NOTE:  
 To prevent a Man-in-the-middle attack, you should receive this fingerprint from another reliable source.

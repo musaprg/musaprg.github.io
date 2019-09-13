@@ -165,9 +165,8 @@ NOTE: Basically I take my account as `musaprg`.
 
 ## GPG Key
 ### Fingerprint
-> NOTE:
+> NOTE:  
 To prevent a Man-in-the-middle attack, you should receive this fingerprint from another reliable source.
-Following fingerprint is just for your reference.
 
 `5C9E B319 687C 525C E6E3  CCA0 C37D 3426 8322 A48C`
 

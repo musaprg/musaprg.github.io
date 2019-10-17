@@ -18,14 +18,14 @@
 - **2016 - present : Waseda University**  
 Bachelor of Engineering, Computer Science and Engineering.  
 Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.ac.jp/en/yamana-lab-information)
+Engaged in crypto and HPC.
 
 - 2013 - 2016 : Waseda University Honjo Senior High School
 
 - 2010 - 2013 : Hatara Junior High School
 
 ## Work Experience
-
-### Internship
+- **Aug 2019 - present : Research Assistant at Waseda University.**
 
 - **Aug 2018 - present : Lead Engineer at SurveyBox Inc.**
 
@@ -35,13 +35,16 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 
 - Feb 2019 - Mar 2019 (1month) : Software Engineer at AbemaTV Inc.
 
+- Jan 2018 - Dec 2018 : Software Engineer at The Nikkei
+
 - Oct 2018 - Nov 2018 (1month) : Software Engineer at Recruit Lifestyle Co., Ltd.
 
 - Sep 2018 (2week) : Software Engineer at Drecom Co., Ltd.
 
-- Jan 2018 - Dec 2018 : Software Engineer at The Nikkei
-
 - Aug 2018 (1week) : Software Engineer at inspec Inc.
+
+- Feb 2018 - Mar 2018 : Research Assistant at Waseda University.  
+Development of a software for phonetic experiments.
 
 - Dec 2015 - Dec 2017 : Software engineer at DogHuggy Inc.
 
@@ -60,8 +63,8 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 ## Skills
 
 - Linux
-- Web Development
-- iOS Development
+- Web Apps Development
+- iOS Apps Development
 - IoT Development
 - DevOps
 - Machine Learning
@@ -74,11 +77,14 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 
 ### Used as part of Work
 
+- C++
+- Dart (Flutter)
 - Golang
 - Java
 - JavaScript
 - PHP
 - Ruby
+- Rust
 - Swift
 
 ### Used as part of hobby
@@ -86,9 +92,8 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 - Assembly (GAS,NASM)
     - I prefer Intel syntax <3
 - C
-- C++
 - C#
-- Rust
+- TypeScript
 
 ### Learned in class
 
@@ -100,7 +105,6 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 
 - Haskell
 - Scala
-- TypeScript
 
 ## Activities
 

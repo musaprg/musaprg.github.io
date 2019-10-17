@@ -13,18 +13,22 @@
 - Computer Vision
 - Automation
 
-## Education
+## Research Areas
+
+- Secure Computing
+- HPC
+
+## Educations
 
 - **2016 - present : Waseda University**  
 Bachelor of Engineering, Computer Science and Engineering.  
 Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.ac.jp/en/yamana-lab-information)
-Engaged in crypto and HPC.
 
 - 2013 - 2016 : Waseda University Honjo Senior High School
 
 - 2010 - 2013 : Hatara Junior High School
 
-## Work Experience
+## Work Experiences
 - **Aug 2019 - present : Research Assistant at Waseda University.**
 
 - **Aug 2018 - present : Lead Engineer at SurveyBox Inc.**
@@ -48,7 +52,7 @@ Development of a software for phonetic experiments.
 
 - Dec 2015 - Dec 2017 : Software engineer at DogHuggy Inc.
 
-## Other Experience
+## Other Experiences
 - Apr 2017 - Mar 2018 : SecHack365 attendee (Trainee of National Cyber Traning Center)
 - Dec 2017 - Dec 2018 : 51st President of MIS.W (Management and Information Society of Waseda University)
 - Jan 2018 - Mar 2018 : DL4US attendee

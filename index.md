@@ -31,7 +31,7 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 
 - **Mar 2019 - present : Site Reliability Engineer at Cookpad Inc.**
 
-- **Aug 2016 - present (inactive) : Machine Learning Engineer at Metadata Inc.**
+- Aug 2016 - Oct 2019 : Machine Learning Engineer at Metadata Inc.
 
 - Feb 2019 - Mar 2019 (1month) : Software Engineer at AbemaTV Inc.
 

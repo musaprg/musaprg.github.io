@@ -16,7 +16,8 @@
 ## Education
 
 - **2016 - present : Waseda University**  
-Bachelor of Engineering, Computer Science and Engineering
+Bachelor of Engineering, Computer Science and Engineering.  
+Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.ac.jp/en/yamana-lab-information)
 
 - 2013 - 2016 : Waseda University Honjo Senior High School
 

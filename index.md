@@ -118,11 +118,12 @@ Development of a software for phonetic experiments.
 [SECCON 2019 Online CTF](https://ctftime.org/event/799) (team: MIS.W, 148th)
 - 2019/7/27  
 [1st Waseda University Data Science Competition](https://www.waseda.jp/top/news/66007) 日立製作所賞（比例部門） (team: グレートWCEおよび北MIS.W連合王国)
-- 2019/7/12 [ACM-ICPC Japan Online First-Round Contest](https://icpc.iisf.or.jp/2019-yokohama/first-round-result/) (team: geek_learning, 162nd)
+- 2019/7/12  
+[ACM-ICPC Japan Online First-Round Contest](https://icpc.iisf.or.jp/2019-yokohama/first-round-result/) (team: geek_learning, 162nd)
 
 #### 2018
 
-- 2018/10/27 - 2018/10/28
+- 2018/10/27 - 2018/10/28  
 [SECCON 2018 Online CTF](https://ctftime.org/event/683) (team: MIS.W, 347th)
 - 2018/7/6  
 [ACM-ICPC Japan Online First-Round Contest](https://icpc.iisf.or.jp/2018-yokohama/1st-round-result/) (team: ultrafastparrot, 67th)
@@ -134,7 +135,7 @@ Development of a software for phonetic experiments.
 
 #### 2016
 
-- 2016/12/10 - 2016/12/11
+- 2016/12/10 - 2016/12/11  
 [SECCON 2016 Online CTF](https://ctftime.org/event/354) (team: ^v^, 278th)
 
 ## Badges

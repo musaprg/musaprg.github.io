@@ -29,7 +29,8 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 - 2010 - 2013 : Hatara Junior High School
 
 ## Work Experiences
-- **Aug 2019 - present : Research Assistant at Waseda University.**
+
+### Internships
 
 - **Aug 2018 - present : Lead Engineer at SurveyBox Inc.**
 
@@ -53,7 +54,8 @@ Development of a software for phonetic experiments.
 - Dec 2015 - Dec 2017 : Software engineer at DogHuggy Inc.
 
 ## Other Experiences
-- Apr 2017 - Mar 2018 : SecHack365 attendee (Trainee of National Cyber Traning Center)
+- **Aug 2019 - present : Research Assistant at Waseda University.**  
+- Apr 2017 - Mar 2018 : SecHack365 attendee(Trainee of National Cyber Traning Center)
 - Dec 2017 - Dec 2018 : 51st President of MIS.W (Management and Information Society of Waseda University)
 - Jan 2018 - Mar 2018 : DL4US attendee
 

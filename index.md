@@ -54,7 +54,7 @@ Development of a software for phonetic experiments.
 - Dec 2015 - Dec 2017 : Software engineer at DogHuggy Inc.
 
 ## Other Experiences
-- **Aug 2019 - present : Research Assistant at Waseda University.**  
+- **Aug 2019 - present : Research Assistant at Waseda University / Meiji Pharmaceutical University.**
 - Apr 2017 - Mar 2018 : SecHack365 attendee(Trainee of National Cyber Traning Center)
 - Dec 2017 - Dec 2018 : 51st President of MIS.W (Management and Information Society of Waseda University)
 - Jan 2018 - Mar 2018 : DL4US attendee

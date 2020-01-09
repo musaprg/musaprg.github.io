@@ -83,15 +83,18 @@ Development of a software for phonetic experiments.
 
 ### Used as part of Work
 
-- C++
 - Dart (Flutter)
-- Golang
+- Go
 - Java
 - JavaScript
 - PHP
 - Ruby
 - Rust
 - Swift
+
+### Used as part of Research
+
+- C++
 
 ### Used as part of hobby
 

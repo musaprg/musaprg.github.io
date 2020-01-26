@@ -30,7 +30,11 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 
 ## Work Experiences
 
-### Internships
+### Full-time
+
+N/A
+
+### Internships / Part-time Job
 
 - **Aug 2018 - present : Lead Engineer at SurveyBox Inc.**
 
@@ -48,13 +52,11 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 
 - Aug 2018 (1week) : Software Engineer at inspec Inc.
 
-- Feb 2018 - Mar 2018 : Research Assistant at Waseda University.  
-Development of a software for phonetic experiments.
-
 - Dec 2015 - Dec 2017 : Software engineer at DogHuggy Inc.
 
 ## Other Experiences
 - **Aug 2019 - present : Research Assistant at Waseda University / Meiji Pharmaceutical University.**
+- Feb 2018 - Mar 2018 : Research Assistant at Waseda University.
 - Apr 2017 - Mar 2018 : SecHack365 attendee(Trainee of National Cyber Traning Center)
 - Dec 2017 - Dec 2018 : 51st President of MIS.W (Management and Information Society of Waseda University)
 - Jan 2018 - Mar 2018 : DL4US attendee

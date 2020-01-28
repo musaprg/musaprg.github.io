@@ -36,23 +36,27 @@ N/A
 
 ### Internships / Part-time Job
 
+#### Mid-term / Long-term
+
 - **Aug 2018 - present : Lead Engineer at SurveyBox Inc.**
 
 - **Mar 2019 - present : Site Reliability Engineer at Cookpad Inc.**
 
 - Aug 2016 - Oct 2019 : Machine Learning Engineer at Metadata Inc.
 
-- Feb 2019 - Mar 2019 (1month) : Software Engineer at AbemaTV Inc.
-
 - Jan 2018 - Dec 2018 : Software Engineer at The Nikkei
+
+- Dec 2015 - Dec 2017 : Software engineer at DogHuggy Inc.
+
+#### Short-term
+
+- Feb 2019 - Mar 2019 (1month) : Software Engineer at AbemaTV Inc.
 
 - Oct 2018 - Nov 2018 (1month) : Software Engineer at Recruit Lifestyle Co., Ltd.
 
 - Sep 2018 (2week) : Software Engineer at Drecom Co., Ltd.
 
 - Aug 2018 (1week) : Software Engineer at inspec Inc.
-
-- Dec 2015 - Dec 2017 : Software engineer at DogHuggy Inc.
 
 ## Other Experiences
 - **Aug 2019 - present : Research Assistant at Waseda University / Meiji Pharmaceutical University.**

@@ -125,26 +125,26 @@ N/A
 
 #### 2020
 - 2020/2/29 - 2020/3/1  
-[ICTSC2019 本選]() (team: mis1yakudo, 8th)
+[ICTSC2019 本選]() (team: mis1yakudo, 8th / 15)
 
 #### 2019
 - 2019/12/7  
-[ICTSC2019 二次予選](https://icttoracon.net/archives/8369) (team: mis1yakudo, 6th)
+[ICTSC2019 二次予選](https://icttoracon.net/archives/8369) (team: mis1yakudo, 6th / 57)
 - 2019/10/19 - 2019/10/20  
-[SECCON 2019 Online CTF](https://ctftime.org/event/799) (team: MIS.W, 148th)
+[SECCON 2019 Online CTF](https://ctftime.org/event/799) (team: MIS.W, 148th / 799)
 - 2019/9/3  
-[ICTSC2019 一次予選](https://icttoracon.net/archives/8310) (team: mis1yakudo, 5th)
+[ICTSC2019 一次予選](https://icttoracon.net/archives/8310) (team: mis1yakudo, 5th / 57)
 - 2019/7/27  
 [1st Waseda University Data Science Competition](https://www.waseda.jp/top/news/66007) 日立製作所賞（比例部門） (team: グレートWCEおよび北MIS.W連合王国)
 - 2019/7/12  
-[ACM-ICPC Japan Online First-Round Contest](https://icpc.iisf.or.jp/2019-yokohama/first-round-result/) (team: geek_learning, 162nd)
+[ACM-ICPC Japan Online First-Round Contest](https://icpc.iisf.or.jp/2019-yokohama/first-round-result/) (team: geek_learning, 162nd / 495)
 
 #### 2018
 
 - 2018/10/27 - 2018/10/28  
-[SECCON 2018 Online CTF](https://ctftime.org/event/683) (team: MIS.W, 347th)
+[SECCON 2018 Online CTF](https://ctftime.org/event/683) (team: MIS.W, 347th / 653)
 - 2018/7/6  
-[ACM-ICPC Japan Online First-Round Contest](https://icpc.iisf.or.jp/2018-yokohama/1st-round-result/) (team: ultrafastparrot, 67th)
+[ACM-ICPC Japan Online First-Round Contest](https://icpc.iisf.or.jp/2018-yokohama/1st-round-result/) (team: ultrafastparrot, 67th / 388)
 
 #### 2017
 

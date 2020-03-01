@@ -123,10 +123,17 @@ N/A
 
 ## Activities
 
-#### 2019
+#### 2020
+- 2020/2/29 - 2020/3/1  
+[ICTSC2019 本選]() (team: mis1yakudo, 8th)
 
+#### 2019
+- 2019/12/7  
+[ICTSC2019 二次予選](https://icttoracon.net/archives/8369) (team: mis1yakudo, 6th)
 - 2019/10/19 - 2019/10/20  
 [SECCON 2019 Online CTF](https://ctftime.org/event/799) (team: MIS.W, 148th)
+- 2019/9/3  
+[ICTSC2019 一次予選](https://icttoracon.net/archives/8310) (team: mis1yakudo, 5th)
 - 2019/7/27  
 [1st Waseda University Data Science Competition](https://www.waseda.jp/top/news/66007) 日立製作所賞（比例部門） (team: グレートWCEおよび北MIS.W連合王国)
 - 2019/7/12  

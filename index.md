@@ -68,8 +68,8 @@ N/A
 ## Licenses and Certifications
 
 ### Licenses
-- TOEIC 880 (L:455, R:425)
-- TOEFL 60 (R:17,L:12,S:15,W:16)
+- TOEIC 880 / 990 (L:455, R:425)
+- TOEFL 60 / 120 (R:17,L:12,S:15,W:16)
 - Class 1 ordinary vehicle
 
 ## Skills

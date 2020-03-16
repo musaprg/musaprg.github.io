@@ -121,8 +121,12 @@ N/A
 - Haskell
 - Scala
 
-## Activities
+## Publications
+### Conference
+#### Domestic
+- <u>井上紘太朗</u>, 山田健太, 鈴木拓也, 石巻優, 山名早人, "CKKS方式準同型暗号におけるRescale演算のGPU実装と演算性能評価", DEIM2020 第12回データ工学と情報マネジメントに関するフォーラム, (2020).
 
+## Activities
 #### 2020
 - 2020/2/29 - 2020/3/1  
 [ICTSC2019 本選]() (team: mis1yakudo, 8th / 15)

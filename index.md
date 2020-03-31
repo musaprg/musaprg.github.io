@@ -38,9 +38,11 @@ N/A
 
 #### Mid-term / Long-term
 
+- **Feb 2020 - present : Software Engineer at Tetrate**
+
 - **Aug 2018 - present : Lead Engineer at SurveyBox Inc.**
 
-- **Mar 2019 - present : Site Reliability Engineer at Cookpad Inc.**
+- Mar 2019 - Mar 2020 : Site Reliability Engineer at Cookpad Inc.
 
 - Aug 2016 - Oct 2019 : Machine Learning Engineer at Metadata Inc.
 

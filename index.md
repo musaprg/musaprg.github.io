@@ -189,6 +189,8 @@ NOTE: Basically I take my account as `musaprg`.
 
 - [Amazon.co.jp WishList](https://amzn.to/2yBHtl3)
 
+<img src="static/20180708000426.jpg" width="20%">
+
 ### CTF
 
 - [CTFtime.org](https://ctftime.org/user/21170)

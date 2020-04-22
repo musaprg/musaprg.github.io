@@ -20,11 +20,15 @@
 
 ## Educations
 
-- **2016 - present : Waseda University**  
+- **2020 - present : Waseda University, Graduate School of Fundamental Science and Engineering**  
+Master of Engineering, Computer Science and Communication Engineering.  
+Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.ac.jp/en/yamana-lab-information)
+
+- 2016 - 2020 : Waseda University, School of Fundamental Science and Engineering  
 Bachelor of Engineering, Computer Science and Engineering.  
 Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.ac.jp/en/yamana-lab-information)
 
-- 2013 - 2016 : Waseda University Honjo Senior High School
+- 2013 - 2016 : Waseda University, Honjo Senior High School
 
 - 2010 - 2013 : Hatara Junior High School
 

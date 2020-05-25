@@ -181,6 +181,8 @@ NOTE: Basically I take my account as `musaprg`.
 
 - [LinkedIn](https://www.linkedin.com/in/musaprg)
 
+- [Wantedly](https://www.wantedly.com/users/17883123)
+
 - [SpeakerDeck](https://speakerdeck.com/musaprg)
 
 - [ResearchGate](https://www.researchgate.net/profile/Kotaro_Inoue4)

@@ -65,7 +65,8 @@ N/A
 - Aug 2018 (1week) : Software Engineer at inspec Inc.
 
 ## Other Experiences
-- **Aug 2019 - present : Research Assistant at Waseda University / Meiji Pharmaceutical University.**
+- **Apr 2020 - present : Research Assistant at Waseda University.**
+- Aug 2019 - Apr 2020 : Research Assistant at Waseda University / Meiji Pharmaceutical University.
 - Feb 2018 - Mar 2018 : Research Assistant at Waseda University.
 - Apr 2017 - Mar 2018 : SecHack365 attendee(Trainee of National Cyber Traning Center)
 - Dec 2017 - Dec 2018 : 51st President of MIS.W (Management and Information Society of Waseda University)
@@ -80,11 +81,13 @@ N/A
 
 ## Skills
 
+- macOS
 - Linux
 - Web Apps Development
 - iOS Apps Development
 - IoT Development
 - DevOps
+- Cloud Infrastructure (AWS / GCP)
 - Machine Learning
 
 ## Programming Language
@@ -92,17 +95,18 @@ N/A
 ### Love <3
 
 - Python
+- Go
 
 ### Used as part of Work
 
 - Dart (Flutter)
-- Go
 - Java
 - JavaScript
 - PHP
 - Ruby
 - Rust
 - Swift
+- TypeScript
 
 ### Used as part of Research
 
@@ -114,7 +118,6 @@ N/A
     - I prefer Intel syntax <3
 - C
 - C#
-- TypeScript
 
 ### Learned in class
 

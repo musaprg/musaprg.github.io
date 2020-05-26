@@ -1,9 +1,13 @@
-# Kotaro Inoue
+# Kotaro Inoue (井上 紘太朗)
 
 <a href="https://twitter.com/musaprg?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @musaprg</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a class="github-button" href="https://github.com/musaprg" data-show-count="false" aria-label="Follow @musaprg on GitHub">Follow @musaprg</a><script async defer src="https://buttons.github.io/buttons.js"></script>
 
 (wanna be) Software Engineer
+
+Handle: むさしん(mu'sashi-n), musaprg
+
+Email: k.musaino [at] gmail.com
 
 [<img src="https://grass-graph.moshimo.works/images/musaprg.png">](https://github.com/musaprg)
 
@@ -16,7 +20,7 @@
 ## Research Areas
 
 - Secure Computing
-- HPC
+- High-Performance Computing
 
 ## Educations
 
@@ -131,6 +135,9 @@ N/A
 - Scala
 
 ## Publications
+### Thesis
+#### Bachelor's
+- **井上紘太朗**, 山名早人, "CKKS方式準同型暗号におけるRescale演算のGPU実装と演算性能評価"
 ### Conference
 #### Domestic
 - **井上紘太朗**, 山田健太, 鈴木拓也, 石巻優, 山名早人, "CKKS方式準同型暗号におけるRescale演算のGPU実装と演算性能評価", DEIM2020 第12回データ工学と情報マネジメントに関するフォーラム, (2020).

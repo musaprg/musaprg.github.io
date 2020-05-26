@@ -146,6 +146,8 @@ N/A
 
 ## Activities
 #### 2020
+- 2020/5/23 - 2020/5/24  
+[SECCON Begineers CTF 2020]() (team: MIS.W, 144th / 1009teams, 700pts)
 - 2020/2/29 - 2020/3/1  
 [ICTSC2019 本選]() (team: mis1yakudo, 8th / 15)
 

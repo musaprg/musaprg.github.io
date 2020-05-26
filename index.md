@@ -68,10 +68,12 @@ N/A
 
 - Aug 2018 (1week) : Software Engineer at inspec Inc.
 
-## Other Experiences
+## Academic Experiences
 - **Apr 2020 - present : Research Assistant at Waseda University.**
 - Aug 2019 - Apr 2020 : Research Assistant at Waseda University / Meiji Pharmaceutical University.
 - Feb 2018 - Mar 2018 : Research Assistant at Waseda University.
+
+## Other Experiences
 - Apr 2017 - Mar 2018 : SecHack365 attendee(Trainee of National Cyber Traning Center)
 - Dec 2017 - Dec 2018 : 51st President of MIS.W (Management and Information Society of Waseda University)
 - Jan 2018 - Mar 2018 : DL4US attendee

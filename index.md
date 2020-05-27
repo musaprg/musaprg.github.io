@@ -137,9 +137,11 @@ N/A
 - Scala
 
 ## Publications
+
 ### Thesis
 #### Bachelor's
 - **井上紘太朗**, 山名早人, "CKKS方式準同型暗号におけるRescale演算のGPU実装と演算性能評価"
+
 ### Conference
 #### Domestic
 - **井上紘太朗**, 山田健太, 鈴木拓也, 石巻優, 山名早人, "CKKS方式準同型暗号におけるRescale演算のGPU実装と演算性能評価", DEIM2020 第12回データ工学と情報マネジメントに関するフォーラム, (2020).

@@ -193,6 +193,8 @@ NOTE: Basically I take my account as `musaprg`.
 
 - [Blog](http://musaprg.hatenablog.com)
 
+- [Scrapbox](https://scrapbox.io/musaprg/)
+
 - [Facebook](https://www.facebook.com/musaprg)
 
 - [LinkedIn](https://www.linkedin.com/in/musaprg)

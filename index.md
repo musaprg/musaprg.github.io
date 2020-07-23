@@ -48,7 +48,7 @@ N/A
 
 - **Feb 2020 - present : Software Engineer at Tetrate**
 
-- **Aug 2018 - present : Lead Engineer at SurveyBox Inc.**
+- **Aug 2018 - present : Lead Software Engineer at SurveyBox Inc.**
 
 - Mar 2019 - Mar 2020 : Site Reliability Engineer at Cookpad Inc.
 

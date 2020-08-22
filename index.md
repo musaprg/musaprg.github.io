@@ -14,7 +14,6 @@ Email: k.musaino [at] gmail.com
 ## Interests
 
 - Distributed System
-- Computer Vision
 - Automation
 
 ## Research Areas

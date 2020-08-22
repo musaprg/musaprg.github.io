@@ -194,7 +194,7 @@ N/A
 
 ## Links 🔗
 
-NOTE: Basically I take my account as `musaprg`.
+NOTE: Basically I take my accounts as `musaprg`.
 
 - [Blog](http://musaprg.hatenablog.com)
 

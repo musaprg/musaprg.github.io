@@ -103,7 +103,7 @@ N/A
 - Python
 - Go
 
-### Used as part of Work
+### Used as part of Business Projects
 
 - Dart (Flutter)
 - Java
@@ -114,22 +114,25 @@ N/A
 - Swift
 - TypeScript
 
-### Used as part of Research
+### Used as part of Research Projects
 
 - C++
 
-### Used as part of hobby
+### Used as part of Hobby Projects
 
 - Assembly (GAS,NASM)
     - I prefer Intel syntax <3
 - C
 - C#
+- SystemVerilog
 
 ### Learned in class
 
 - FORTRAN77
 - OCaml
 - R
+- VHDL
+- Verilog-HDL
 
 ### Interested
 

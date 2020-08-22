@@ -89,13 +89,12 @@ N/A
 
 ## Skills
 
-- macOS
-- Linux
-- Web Apps Development
-- iOS Apps Development
-- IoT Development
+- Engineering of
+  - Web Apps
+  - Mobile Apps (iOS)
+  - IoT
 - DevOps
-- Cloud Infrastructure (AWS / GCP)
+- Public Cloud Infrastructure (AWS, GCP)
 - Machine Learning
 
 ## Programming Language

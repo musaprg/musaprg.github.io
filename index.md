@@ -60,13 +60,15 @@ N/A
 
 #### Short-term
 
-- Feb 2019 - Mar 2019 (1month) : Software Engineer at AbemaTV Inc.
+- **Aug 2020 - present (1.5 months) : Software Engineer at LINE Corp.**
 
-- Oct 2018 - Nov 2018 (1month) : Software Engineer at Recruit Lifestyle Co., Ltd.
+- Feb 2019 - Mar 2019 (1 month) : Software Engineer at AbemaTV Inc.
 
-- Sep 2018 (2week) : Software Engineer at Drecom Co., Ltd.
+- Oct 2018 - Nov 2018 (1 month) : Software Engineer at Recruit Lifestyle Co., Ltd.
 
-- Aug 2018 (1week) : Software Engineer at inspec Inc.
+- Sep 2018 (2 weeks) : Software Engineer at Drecom Co., Ltd.
+
+- Aug 2018 (1 weeks) : Software Engineer at inspec Inc.
 
 ## Academic Experiences
 - **Apr 2020 - present : Research Assistant at Waseda University.**

@@ -198,8 +198,6 @@ NOTE: Basically I take my accounts as `musaprg`.
 
 - [Blog](http://musaprg.hatenablog.com)
 
-- [Facebook](https://www.facebook.com/musaprg)
-
 - [LinkedIn](https://www.linkedin.com/in/musaprg)
 
 - [SpeakerDeck](https://speakerdeck.com/musaprg)

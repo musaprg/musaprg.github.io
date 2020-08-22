@@ -198,19 +198,17 @@ NOTE: Basically I take my accounts as `musaprg`.
 
 - [Blog](http://musaprg.hatenablog.com)
 
-- [Scrapbox](https://scrapbox.io/musaprg/)
-
 - [Facebook](https://www.facebook.com/musaprg)
 
 - [LinkedIn](https://www.linkedin.com/in/musaprg)
 
-- [Wantedly](https://www.wantedly.com/users/17883123)
-
 - [SpeakerDeck](https://speakerdeck.com/musaprg)
 
-- [ResearchGate](https://www.researchgate.net/profile/Kotaro_Inoue4)
+- [CTFtime.org](https://ctftime.org/user/21170)
 
-- [Cookpad My Kitchen](https://cookpad.com/kitchen/29779259)
+- [AtCoder](https://atcoder.jp/user/musaprg)
+
+- [Kaggle](https://www.kaggle.com/musaprg)
 
 ### Donate 💰
 
@@ -219,30 +217,6 @@ NOTE: Basically I take my accounts as `musaprg`.
 - [Amazon.co.jp WishList](https://amzn.to/2yBHtl3)
 
 <img src="static/20180708000426.jpg" width="20%">
-
-### CTF
-
-- [CTFtime.org](https://ctftime.org/user/21170)
-
-### Competitive Programming
-
-- [AtCoder](https://atcoder.jp/user/musaprg)
-
-- [AtCoder Problems](https://kenkoooo.com/atcoder/?user=musaprg&kind=user)
-
-- [TopCoder](https://www.topcoder.com/members/musaprg)
-
-- [Aizu Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=musaprg)
-
-- [AOJ-ICPC](http://aoj-icpc.ichyo.jp/?aoj_rivals=&sort2_order=desc&year_max=&source4=1&aoj_username=musaprg&point_max=1200&sort1_order=asc&source2=1&source3=1&exclude_nonAOJ=1&source1=1&point_min=100&sort2_by=num_aoj_acceptances&year_min=&sort1_by=point)
-
-- [HackerRank](https://www.hackerrank.com/musaprg)
-
-- [CS Academy](https://csacademy.com/user/musaprg)
-
-- [LeetCode](https://leetcode.com/musaprg)
-
-- [Kaggle](https://www.kaggle.com/musaprg)
 
 ## PGP Public Key
 ### Fingerprint

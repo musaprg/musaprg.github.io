@@ -180,7 +180,7 @@ N/A
 #### 2017
 
 - 2017/7/14  
-[ACM-ICPC Japan Online First-Round Contest](https://icpc.iisf.or.jp/2017-tsukuba/results/) (team: ky0sh1n, 65th)
+[ACM-ICPC Japan Online First-Round Contest](https://icpc.iisf.or.jp/2017-tsukuba/results/) (team: ky0sh1n, 65th / 358)
 
 #### 2016
 

@@ -88,7 +88,12 @@ N/A
   - Mobile Apps (iOS)
   - IoT
 - DevOps
-- Public Cloud Infrastructure (AWS, GCP)
+- Public Cloud Platform (AWS, GCP)
+- Cloud Native Software/Infrastructure
+  - Docker
+  - Kubernetes
+  - Envoy
+  - Istio
 - Machine Learning
 
 ## Programming Language

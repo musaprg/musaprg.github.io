@@ -58,11 +58,11 @@ N/A
 - Dec 2015 - Dec 2017 : Software engineer at DogHuggy Inc.
 
 #### Short-term
+- Oct 2020 - Nov 2020 (1 month) : Software Engineer at Recruit Technologies Co., Ltd.
+
 - Sep 2020 - Oct 2020 (2 weeks) : Software Engineer at DMM.com LLC.
-  - Working on ETL and data quality tests w/ Apache Spark
 
 - Aug 2020 - Sep 2020 (1.5 months) : Software Engineer at LINE Corp.
-  - Working on development of common service proxy software, especially schema validation for incoming requests w/ OpenAPI specs.
 
 - Feb 2019 - Mar 2019 (1 month) : Software Engineer at AbemaTV Inc.
 

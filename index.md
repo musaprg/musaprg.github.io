@@ -156,7 +156,7 @@ N/A
 
 ## Activities
 #### 2020
-- 2020/10/31
+- 2020/10/31  
 [ICTSC2020 予選](https://icttoracon.net/archives/8648) (team: mis1yakudo, 2nd / 40)
 - 2020/5/23 - 2020/5/24  
 [SECCON Begineers CTF 2020]() (team: MIS.W, 144th / 1009teams, 700pts)

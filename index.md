@@ -156,6 +156,8 @@ N/A
 
 ## Activities
 #### 2020
+- 2020/11/6  
+[ACM-ICPC Japan Online First-Round Contest](https://icpc.iisf.or.jp/2020-yokohama/domestic_result/) (team: brbrcrlf, 103rd / 297)
 - 2020/10/31  
 [ICTSC2020 予選](https://icttoracon.net/archives/8648) (team: mis1yakudo, 2nd / 40)
 - 2020/5/23 - 2020/5/24  

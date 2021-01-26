@@ -101,46 +101,37 @@ N/A
 
 ## Programming Language
 
-### Love <3
+### 【★★★】Love
 
 - Python
 - Go
 
-### Used as part of Business Projects
-
-- Dart (Flutter)
-- Java
-- JavaScript
-- PHP
-- Ruby
-- Rust
-- Swift
-- TypeScript
-
-### Used as part of Research Projects
+### 【★★☆】Well-learned
 
 - C++
+- Rust
+- Swift
+- JavaScript
+- TypeScript
 
-### Used as part of Hobby Projects
+### 【★☆☆】Used to write applications
 
-- Assembly (GAS,NASM)
-    - I prefer Intel syntax <3
-- C
+- Dart
+- Java
+- PHP
+- Ruby
+- Scala
+
+### 【☆☆☆】Just said hello to the world (or just learned in the class)
+
 - C#
 - SystemVerilog
-
-### Learned in class
-
 - FORTRAN77
-- OCaml
 - R
 - VHDL
 - Verilog-HDL
-
-### Interested
-
 - Haskell
-- Scala
+- Ocaml
 
 ## Publications
 

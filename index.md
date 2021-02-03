@@ -206,6 +206,7 @@ NOTE: Basically I take my accounts as `musaprg`.
 
 - [Kaggle](https://www.kaggle.com/musaprg)
 
+- [About my environment](https://www.geartics.com/musaprg)
 ### Donate 💰
 
 - [Paypal.Me](https://paypal.me/musaprg?locale.x=ja_JP)

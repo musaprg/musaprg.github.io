@@ -1,4 +1,4 @@
-# Kotaro Inoue (井上 紘太朗)
+# musaprg
 
 <a href="https://twitter.com/musaprg?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @musaprg</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a class="github-button" href="https://github.com/musaprg" data-show-count="false" aria-label="Follow @musaprg on GitHub">Follow @musaprg</a><script async defer src="https://buttons.github.io/buttons.js"></script>
@@ -33,8 +33,6 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 
 - 2013 - 2016 : Waseda University, Honjo Senior High School
 
-- 2010 - 2013 : Hatara Junior High School
-
 ## Work Experiences
 
 ### Full-time
@@ -49,6 +47,10 @@ N/A
 
 - **Aug 2018 - present : Lead Software Engineer at SurveyBox Inc.**
 
+<details>
+
+<summary>previous jobs</summary>
+
 - Mar 2019 - Mar 2020 : Site Reliability Engineer at Cookpad Inc.
 
 - Aug 2016 - Oct 2019 : Machine Learning Engineer at Metadata Inc.
@@ -57,7 +59,13 @@ N/A
 
 - Dec 2015 - Dec 2017 : Software engineer at DogHuggy Inc.
 
+</details>
+
 #### Short-term
+<details>
+
+<summary>previous jobs</summary>
+
 - Oct 2020 - Nov 2020 (1 month) : Software Engineer at Recruit Technologies Co., Ltd.
 
 - Sep 2020 - Oct 2020 (2 weeks) : Software Engineer at DMM.com LLC.
@@ -71,6 +79,8 @@ N/A
 - Sep 2018 (2 weeks) : Software Engineer at Drecom Co., Ltd.
 
 - Aug 2018 (1 weeks) : Software Engineer at inspec Inc.
+
+</details>
 
 ## Other Experiences
 - Apr 2017 - Mar 2018 : SecHack365 attendee(Trainee of National Cyber Traning Center)

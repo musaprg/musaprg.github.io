@@ -1,4 +1,4 @@
-# musaprg
+# Kotaro Inoue
 
 <a href="https://twitter.com/musaprg?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @musaprg</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a class="github-button" href="https://github.com/musaprg" data-show-count="false" aria-label="Follow @musaprg on GitHub">Follow @musaprg</a><script async defer src="https://buttons.github.io/buttons.js"></script>

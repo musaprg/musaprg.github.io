@@ -47,10 +47,6 @@ N/A
 
 - **Aug 2018 - present : Lead Software Engineer at SurveyBox Inc.**
 
-<details>
-
-<summary>previous jobs</summary>
-
 - Mar 2019 - Mar 2020 : Site Reliability Engineer at Cookpad Inc.
 
 - Aug 2016 - Oct 2019 : Machine Learning Engineer at Metadata Inc.
@@ -59,12 +55,7 @@ N/A
 
 - Dec 2015 - Dec 2017 : Software engineer at DogHuggy Inc.
 
-</details>
-
 #### Short-term
-<details>
-
-<summary>previous jobs</summary>
 
 - Oct 2020 - Nov 2020 (1 month) : Software Engineer at Recruit Technologies Co., Ltd.
 
@@ -79,8 +70,6 @@ N/A
 - Sep 2018 (2 weeks) : Software Engineer at Drecom Co., Ltd.
 
 - Aug 2018 (1 weeks) : Software Engineer at inspec Inc.
-
-</details>
 
 ## Other Experiences
 - Apr 2017 - Mar 2018 : SecHack365 attendee(Trainee of National Cyber Traning Center)

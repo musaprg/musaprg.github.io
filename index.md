@@ -145,6 +145,10 @@ N/A
 - **井上紘太朗**, 山田健太, 鈴木拓也, 石巻優, 山名早人, "CKKS方式準同型暗号におけるRescale演算のGPU実装と演算性能評価", DEIM2020 第12回データ工学と情報マネジメントに関するフォーラム, (2020).
 
 ## Activities
+#### 2021
+- 2021/3/6 - 2021/3/7  
+- [ICTSC2020 本選]() (team: mis1yakudo, 4th / 20)
+
 #### 2020
 - 2020/11/6  
 [ACM-ICPC Japan Online First-Round Contest](https://icpc.iisf.or.jp/2020-yokohama/domestic_result/) (team: brbrcrlf, 103rd / 297)

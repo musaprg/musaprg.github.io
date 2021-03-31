@@ -11,9 +11,9 @@
 # Kotaro INOUE / 井上 紘太朗
 
 <div class="buttonContainer">
+  <div class="g-ytsubscribe" data-channelid="UC1bjxpYEvqF2xwGn9kEol3w" data-layout="full" data-count="hidden"></div>
   <a href="https://twitter.com/musaprg?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @musaprg</a>
   <a class="github-button" href="https://github.com/musaprg" data-show-count="false" aria-label="Follow @musaprg on GitHub">Follow @musaprg</a>
-  <div class="g-ytsubscribe" data-channelid="UC1bjxpYEvqF2xwGn9kEol3w" data-layout="full" data-count="hidden"></div>
 </div>
 
 (wanna be) Software Engineer

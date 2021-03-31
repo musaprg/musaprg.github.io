@@ -10,6 +10,8 @@ Handle: むさしん(mu'sashi-n), musaprg
 
 Email: k.musaino [at] gmail.com
 
+Phone: +81-70-8381-3827 / 070-8381-3827 (10:00am - 7:00pm JST)
+
 [<img src="https://grass-graph.moshimo.works/images/musaprg.png">](https://github.com/musaprg)
 
 ## Interests

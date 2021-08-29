@@ -162,7 +162,9 @@ N/A
 ## Activities
 #### 2021
 - 2021/3/6 - 2021/3/7  
-[ICTSC2020 本選]() (team: mis1yakudo, 4th / 20)
+[ICTSC2021 Summer]() (team: mis1yakudo, 1st / )
+- 2021/3/6 - 2021/3/7  
+[ICTSC2020 本選](https://icttoracon.net/archives/8751) (team: mis1yakudo, 4th / 20)
 
 #### 2020
 - 2020/11/6  

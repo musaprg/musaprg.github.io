@@ -120,7 +120,7 @@ N/A
 - Python
 - Go
 
-### 【★★☆】Well-learned
+### 【★★☆】Can use without any pain
 
 - C++
 - Rust

@@ -58,6 +58,8 @@ N/A
 
 #### Mid-term / Long-term
 
+<details>
+
 - Feb 2020 - Nov 2021 : Software Engineer at Tetrate
 
 - Aug 2018 - Aug 2021 : Lead Software Engineer at SurveyBox Inc.
@@ -70,7 +72,11 @@ N/A
 
 - Dec 2015 - Dec 2017 : Software engineer at DogHuggy Inc.
 
+</details>  
+
 #### Short-term
+
+<details>
 
 - Oct 2020 - Nov 2020 (1 month) : Software Engineer at Recruit Technologies Co., Ltd.
 
@@ -85,6 +91,8 @@ N/A
 - Sep 2018 (2 weeks) : Software Engineer at Drecom Co., Ltd.
 
 - Aug 2018 (1 weeks) : Software Engineer at inspec Inc.
+  
+</details>
 
 ## Other Experiences
 - Apr 2017 - Mar 2018 : SecHack365 attendee(Trainee of National Cyber Traning Center)

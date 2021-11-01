@@ -59,39 +59,28 @@ N/A
 #### Mid-term / Long-term
 
 <details>
-
-- Feb 2020 - Nov 2021 : Software Engineer at Tetrate
-
-- Aug 2018 - Aug 2021 : Lead Software Engineer at SurveyBox Inc.
-
-- Mar 2019 - Mar 2020 : Site Reliability Engineer at Cookpad Inc.
-
-- Aug 2016 - Oct 2019 : Machine Learning Engineer at Metadata Inc.
-
-- Jan 2018 - Dec 2018 : Software Engineer at The Nikkei
-
-- Dec 2015 - Dec 2017 : Software engineer at DogHuggy Inc.
-
+  <ul>
+    <li>Feb 2020 - Nov 2021 : Software Engineer at Tetrate</li>
+    <li>Aug 2018 - Aug 2021 : Lead Software Engineer at SurveyBox Inc.</li>
+    <li>Mar 2019 - Mar 2020 : Site Reliability Engineer at Cookpad Inc.</li>
+    <li>Aug 2016 - Oct 2019 : Machine Learning Engineer at Metadata Inc.</li>
+    <li>Jan 2018 - Dec 2018 : Software Engineer at The Nikkei</li>
+    <li>Dec 2015 - Dec 2017 : Software engineer at DogHuggy Inc.</li>
+  </ul>
 </details>  
 
 #### Short-term
 
 <details>
-
-- Oct 2020 - Nov 2020 (1 month) : Software Engineer at Recruit Technologies Co., Ltd.
-
-- Sep 2020 - Oct 2020 (2 weeks) : Software Engineer at DMM.com LLC.
-
-- Aug 2020 - Sep 2020 (1.5 months) : Software Engineer at LINE Corp.
-
-- Feb 2019 - Mar 2019 (1 month) : Software Engineer at AbemaTV Inc.
-
-- Oct 2018 - Nov 2018 (1 month) : Software Engineer at Recruit Lifestyle Co., Ltd.
-
-- Sep 2018 (2 weeks) : Software Engineer at Drecom Co., Ltd.
-
-- Aug 2018 (1 weeks) : Software Engineer at inspec Inc.
-  
+  <ul>
+    <li>Oct 2020 - Nov 2020 (1 month) : Software Engineer at Recruit Technologies Co., Ltd.</li>
+    <li>Sep 2020 - Oct 2020 (2 weeks) : Software Engineer at DMM.com LLC.</li>
+    <li>Aug 2020 - Sep 2020 (1.5 months) : Software Engineer at LINE Corp.</li>
+    <li>Feb 2019 - Mar 2019 (1 month) : Software Engineer at AbemaTV Inc.</li>
+    <li>Oct 2018 - Nov 2018 (1 month) : Software Engineer at Recruit Lifestyle Co., Ltd.</li>
+    <li>Sep 2018 (2 weeks) : Software Engineer at Drecom Co., Ltd.</li>
+    <li>Aug 2018 (1 weeks) : Software Engineer at inspec Inc.</li>
+  </ul>
 </details>
 
 ## Other Experiences

@@ -58,7 +58,7 @@ N/A
 
 #### Mid-term / Long-term
 
-- **Feb 2020 - present : Software Engineer at Tetrate**
+- Feb 2020 - Nov 2021 : Software Engineer at Tetrate
 
 - Aug 2018 - Aug 2021 : Lead Software Engineer at SurveyBox Inc.
 

@@ -31,11 +31,6 @@ Phone: +8170(8381)3827 / 070(8381)3827 <10:00am - 7:00pm JST>
 - Distributed System
 - Automation
 
-## Research Areas
-
-- Secure Computing
-- High-Performance Computing
-
 ## Educations
 
 - **2020 - present : Waseda University, Graduate School of Fundamental Science and Engineering**  

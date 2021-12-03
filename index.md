@@ -144,6 +144,8 @@ NOTE: Basically I take my accounts as `musaprg`.
 
 - [LinkedIn](https://www.linkedin.com/in/musaprg)
 
+- [Keybase.io](https://keybase.io/musaprg)
+
 - [SpeakerDeck](https://speakerdeck.com/musaprg)
 
 - [CTFtime.org](https://ctftime.org/user/21170)
@@ -158,8 +160,6 @@ NOTE: Basically I take my accounts as `musaprg`.
 - [Paypal.Me](https://paypal.me/musaprg?locale.x=ja_JP)
 
 - [Amazon.co.jp WishList](https://amzn.to/2yBHtl3)
-
-<img src="static/20180708000426.jpg" width="20%">
 
 ## PGP Public Key
 ### Fingerprint

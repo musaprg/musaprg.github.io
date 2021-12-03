@@ -16,20 +16,23 @@
   <a class="github-button" href="https://github.com/musaprg" data-show-count="false" aria-label="Follow @musaprg on GitHub">Follow @musaprg</a>
 </div>
 
-(wanna be) Software Engineer
+(wanna be) Software Engineer, pythonista and golanger ʕ◔ϖ◔ʔ.
 
 Handle: むさしん(mu'sashi-n), musaprg
 
-Email: k.musaino [at] gmail.com
+Email: mail [at] mssn.dev OR k.musaino [at] gmail.com
 
-Phone: +8170(8381)3827 / 070(8381)3827 <10:00am - 7:00pm JST>
+Phone: +8170(8381)3827 OR 070(8381)3827 <10:00am - 7:00pm JST>
 
-[<img src="https://grass-graph.moshimo.works/images/musaprg.png">](https://github.com/musaprg)
+[<img src="https://grass-graph.appspot.com/images/musaprg.png">](https://github.com/musaprg)
+
+If you want to see my work-related info, please go to my [Linkedin](https://www.linkedin.com/in/musaprg).
 
 ## Interests
 
 - Distributed System
 - Automation
+- Secure Computing
 
 ## Educations
 
@@ -42,68 +45,6 @@ Bachelor of Engineering, Computer Science and Engineering.
 Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.ac.jp/en/yamana-lab-information)
 
 - 2013 - 2016 : Waseda University, Honjo Senior High School
-
-## Work Experiences
-
-### Full-time
-
-N/A
-
-### Internships / Part-time Job
-
-#### Mid-term / Long-term
-
-<details>
-  <ul>
-    <li>Feb 2020 - Nov 2021 : Software Engineer at Tetrate</li>
-    <li>Aug 2018 - Aug 2021 : Lead Software Engineer at SurveyBox Inc.</li>
-    <li>Mar 2019 - Mar 2020 : Site Reliability Engineer at Cookpad Inc.</li>
-    <li>Aug 2016 - Oct 2019 : Machine Learning Engineer at Metadata Inc.</li>
-    <li>Jan 2018 - Dec 2018 : Software Engineer at The Nikkei</li>
-    <li>Dec 2015 - Dec 2017 : Software engineer at DogHuggy Inc.</li>
-  </ul>
-</details>  
-
-#### Short-term
-
-<details>
-  <ul>
-    <li>Oct 2020 - Nov 2020 (1 month) : Software Engineer at Recruit Technologies Co., Ltd.</li>
-    <li>Sep 2020 - Oct 2020 (2 weeks) : Software Engineer at DMM.com LLC.</li>
-    <li>Aug 2020 - Sep 2020 (1.5 months) : Software Engineer at LINE Corp.</li>
-    <li>Feb 2019 - Mar 2019 (1 month) : Software Engineer at AbemaTV Inc.</li>
-    <li>Oct 2018 - Nov 2018 (1 month) : Software Engineer at Recruit Lifestyle Co., Ltd.</li>
-    <li>Sep 2018 (2 weeks) : Software Engineer at Drecom Co., Ltd.</li>
-    <li>Aug 2018 (1 weeks) : Software Engineer at inspec Inc.</li>
-  </ul>
-</details>
-
-## Other Experiences
-- Apr 2017 - Mar 2018 : SecHack365 attendee(Trainee of National Cyber Traning Center)
-- Dec 2017 - Dec 2018 : 51st President of MIS.W (Management and Information Society of Waseda University)
-- Jan 2018 - Mar 2018 : DL4US attendee
-
-## Licenses and Certifications
-
-### Licenses
-- TOEIC 880 / 990 (L:455, R:425)
-- TOEFL 60 / 120 (R:17,L:12,S:15,W:16)
-- Class 1 ordinary vehicle
-
-## Skills
-
-- Engineering of
-  - Web Apps
-  - Mobile Apps (iOS)
-  - IoT
-- DevOps
-- Public Cloud Platform (AWS, GCP)
-- Cloud Native Software/Infrastructure
-  - Docker
-  - Kubernetes
-  - Envoy
-  - Istio
-- Machine Learning
 
 ## Programming Language
 
@@ -127,17 +68,6 @@ N/A
 - PHP
 - Ruby
 - Scala
-
-### 【☆☆☆】Just said hello to the world (or just learned in the class)
-
-- C#
-- SystemVerilog
-- FORTRAN77
-- R
-- VHDL
-- Verilog-HDL
-- Haskell
-- Ocaml
 
 ## Publications
 

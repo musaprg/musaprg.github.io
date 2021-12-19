@@ -18,6 +18,7 @@
 
 <div class="icon">
   <img src="./static/icon.jpg" style="width:10em;height:10em;" />
+  <img src="./static/thumbnail.png" style="width:10em;height:10em;" />
 </div>
 
 (wanna be) Software Engineer, pythonista and golanger ʕ◔ϖ◔ʔ.

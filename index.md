@@ -148,13 +148,8 @@ NOTE: Basically I take my accounts as `musaprg`.
 
 - [SpeakerDeck](https://speakerdeck.com/musaprg)
 
-- [CTFtime.org](https://ctftime.org/user/21170)
+- [Twitch](https://twitch.tv/musaprg)
 
-- [AtCoder](https://atcoder.jp/user/musaprg)
-
-- [Kaggle](https://www.kaggle.com/musaprg)
-
-- [About my environment](https://www.geartics.com/musaprg)
 ### Donate 💰
 
 - [Paypal.Me](https://paypal.me/musaprg?locale.x=ja_JP)

@@ -8,7 +8,7 @@
   }
 </style>
 
-# Kotaro INOUE / 井上 紘太朗
+# Kotaro INOUE
 
 <div class="buttonContainer">
   <div class="g-ytsubscribe" data-channelid="UC1bjxpYEvqF2xwGn9kEol3w" data-layout="full" data-count="hidden"></div>

@@ -19,7 +19,7 @@
   <img src="./static/thumbnail.png" style="width:10em;height:10em;" />
 </div>
 
-(wanna be) Software Engineer, pythonista and golanger ʕ◔ϖ◔ʔ.
+(wanna be) Software Engineer, pythonista and gopher ʕ◔ϖ◔ʔ.
 
 Handle: むさしん(mu'sashi-n), musaprg
 

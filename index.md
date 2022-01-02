@@ -151,6 +151,8 @@ NOTE: Basically I take my accounts as `musaprg`.
 
 ### Donate 💰
 
+<a href="https://www.buymeacoffee.com/musaprg"><img src="./static/orange-button.png" style="width:10em;" /></a>
+
 - [Paypal.Me](https://paypal.me/musaprg?locale.x=ja_JP)
 
 - [Amazon.co.jp WishList](https://amzn.to/2yBHtl3)

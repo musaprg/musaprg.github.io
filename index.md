@@ -124,11 +124,6 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 ![](https://projecteuler.net/profile/musaprg.png)
 
 ## Publications
-
-### Thesis
-#### Bachelor's
-- **井上紘太朗**, 山名早人, "CKKS方式準同型暗号におけるRescale演算のGPU実装と演算性能評価"
-
 ### Academic Forum / Symposium (No peer-review)
 - 牛山 翔二郎, 高橋 翼, 工藤 雅士, **井上 紘太朗**, 鈴木 拓也, 山名 早人, "完全準同型暗号下での差分プライバシ適用－レンジクエリを対象として－", DEIM2021 第13回データ工学と情報マネジメントに関するフォーラム, (2021).  
 - 牛山 翔二郎, 工藤 雅士, 髙橋 翼, **井上 紘太朗**, 鈴木 拓也, 山名 早人, "差分プライバシと準同型暗号の組合せに関する研究動向調査", CSS2020 コンピュータセキュリティシンポジウム2020, (2020).

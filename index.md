@@ -35,7 +35,7 @@ If you want to see my work-related info, please go to my [Linkedin](https://www.
 
 - Distributed System
 - Automation
-- Secure Computing
+- Secure Computing (esp., Homomorphic Encryption)
 
 ## Educations
 

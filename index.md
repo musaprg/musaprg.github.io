@@ -39,7 +39,7 @@ If you want to see my work-related info, please go to my [Linkedin](https://www.
 
 ## Educations
 
-- **2020 - present : Waseda University, Graduate School of Fundamental Science and Engineering**  
+- 2020 - present : Waseda University, Graduate School of Fundamental Science and Engineering  
 Master of Engineering, Computer Science and Communication Engineering.  
 Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.ac.jp/en/yamana-lab-information)
 
@@ -48,6 +48,8 @@ Bachelor of Engineering, Computer Science and Engineering.
 Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.ac.jp/en/yamana-lab-information)
 
 - 2013 - 2016 : Waseda University, Honjo Senior High School
+
+- 2011 - 2013 : Fukaya Municipal Hatara Junior High School
 
 ## Programming Language
 

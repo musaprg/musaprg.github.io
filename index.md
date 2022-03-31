@@ -39,7 +39,7 @@ If you want to see my work-related info, please go to my [Linkedin](https://www.
 
 ## Educations
 
-- 2020 - present : Waseda University, Graduate School of Fundamental Science and Engineering  
+- 2020 - 2022 : Waseda University, Graduate School of Fundamental Science and Engineering  
 Master of Engineering, Computer Science and Communication Engineering.  
 Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.ac.jp/en/yamana-lab-information)
 

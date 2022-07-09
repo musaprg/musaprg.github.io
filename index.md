@@ -53,26 +53,33 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 
 ## Programming Language
 
-### 【★★★】Love
+### 【★★★】 Love
 
-- Python
 - Go
+- Python
 
-### 【★★☆】Can use without any pain
+### 【★★☆】 Available
 
+- C
 - C++
-- Rust
-- Swift
-- JavaScript
-- TypeScript
-
-### 【★☆☆】Used to write applications
-
-- Dart
 - Java
-- PHP
+- JavaScript
+- Kotlin
+- Swift
+- TypeScript
 - Ruby
+- Rust
+
+### 【★☆☆】 Know how to write application
+
+- Dart (Flutter)
 - Scala
+- PHP
+
+### 【☆☆☆】 Know how to say hello
+
+- Haskell
+- OCaml
 
 ## Activities
 #### 2022

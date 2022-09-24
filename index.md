@@ -137,12 +137,18 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 ![](https://projecteuler.net/profile/musaprg.png)
 
 ## Publications
+### Tech Event
+- "Zigでコンテナランタイム作ってみた", 第55回情報科学若手の会, Sep. 2022. [slides](https://speakerdeck.com/line_developers/i-made-a-container-runtime-with-zig)
+
+### Academic Conference / Workshop (Peer-reviewed)
+- **Kotaro Inoue**, Takuya Suzuki, Hayato Yamana, "Acceleration of Homomorphic Unrolled Trace-Type Function using AVX512 instructions", 10th Workshop on Encrypted Computing & Applied Homomorphic Cryptography (WAHC 2022), Nov. 2022. (TBA)
+
 ### Academic Forum / Symposium (No peer-review)
-- **井上紘太朗**, 鈴木拓也, 山名早人, "準同型暗号処理で多用されるTrace-Type FunctionのAVX512による高速化", 第14回データ工学と情報マネジメントに関するフォーラム(DEIM2022), J41-4 (2022).
-- 牛山 翔二郎, 高橋 翼, 工藤 雅士, **井上 紘太朗**, 鈴木 拓也, 山名 早人, "完全準同型暗号下での差分プライバシ適用－レンジクエリを対象として－", DEIM2021 第13回データ工学と情報マネジメントに関するフォーラム, (2021).  
-- 牛山 翔二郎, 工藤 雅士, 髙橋 翼, **井上 紘太朗**, 鈴木 拓也, 山名 早人, "差分プライバシと準同型暗号の組合せに関する研究動向調査", CSS2020 コンピュータセキュリティシンポジウム2020, (2020).
-- **井上紘太朗**, 鈴木拓也, 山名早人, "完全準同型暗号の高速化に向けたハードウェア利活用に関する研究調査", FIT2020 第19回情報科学技術フォーラム, (2020).
-- **井上紘太朗**, 山田健太, 鈴木拓也, 石巻優, 山名早人, "CKKS方式準同型暗号におけるRescale演算のGPU実装と演算性能評価", DEIM2020 第12回データ工学と情報マネジメントに関するフォーラム, (2020).
+- **井上紘太朗**, 鈴木拓也, 山名早人, "準同型暗号処理で多用されるTrace-Type FunctionのAVX512による高速化", 第14回データ工学と情報マネジメントに関するフォーラム(DEIM2022), J41-4 2022.
+- 牛山 翔二郎, 高橋 翼, 工藤 雅士, **井上 紘太朗**, 鈴木 拓也, 山名 早人, "完全準同型暗号下での差分プライバシ適用－レンジクエリを対象として－", DEIM2021 第13回データ工学と情報マネジメントに関するフォーラム, 2021.  
+- 牛山 翔二郎, 工藤 雅士, 髙橋 翼, **井上 紘太朗**, 鈴木 拓也, 山名 早人, "差分プライバシと準同型暗号の組合せに関する研究動向調査", CSS2020 コンピュータセキュリティシンポジウム2020, 2020.
+- **井上紘太朗**, 鈴木拓也, 山名早人, "完全準同型暗号の高速化に向けたハードウェア利活用に関する研究調査", FIT2020 第19回情報科学技術フォーラム, 2020.
+- **井上紘太朗**, 山田健太, 鈴木拓也, 石巻優, 山名早人, "CKKS方式準同型暗号におけるRescale演算のGPU実装と演算性能評価", DEIM2020 第12回データ工学と情報マネジメントに関するフォーラム, 2020.
 
 ## Links 🔗
 

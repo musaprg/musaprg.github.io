@@ -141,7 +141,7 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 - "Zigでコンテナランタイム作ってみた", 第55回情報科学若手の会, Sep. 2022. [slides](https://speakerdeck.com/line_developers/i-made-a-container-runtime-with-zig)
 
 ### Academic Conference / Workshop (Peer-reviewed)
-- **Kotaro Inoue**, Takuya Suzuki, Hayato Yamana, "Acceleration of Homomorphic Unrolled Trace-Type Function using AVX512 instructions", 10th Workshop on Encrypted Computing & Applied Homomorphic Cryptography (WAHC 2022), Nov. 2022. (TBA)
+- **Kotaro Inoue**, Takuya Suzuki, and Hayato Yamana. 2022. Acceleration of Homomorphic Unrolled Trace-Type Function using AVX512 instructions. In Proceedings of the 10th Workshop on Encrypted Computing & Applied Homomorphic Cryptography (WAHC'22). Association for Computing Machinery, New York, NY, USA, 47–52. https://doi.org/10.1145/3560827.3563374
 
 ### Academic Forum / Symposium (No peer-review)
 - **井上紘太朗**, 鈴木拓也, 山名早人, "準同型暗号処理で多用されるTrace-Type FunctionのAVX512による高速化", 第14回データ工学と情報マネジメントに関するフォーラム(DEIM2022), J41-4 2022.

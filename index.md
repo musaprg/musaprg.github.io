@@ -136,6 +136,10 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 
 ![](https://projecteuler.net/profile/musaprg.png)
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6d0ebe8d-b1f4-4f68-874f-900f346d3529" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0a85038d-82e6-4c8b-ba79-c7f43c02796f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## Publications
 ### Tech Event
 - "Zigでコンテナランタイム作ってみた", 第55回情報科学若手の会, Sep. 2022. [slides](https://speakerdeck.com/line_developers/i-made-a-container-runtime-with-zig)

@@ -49,8 +49,6 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 
 - 2013 - 2016 : Waseda University, Honjo Senior High School
 
-- 2011 - 2013 : Fukaya Municipal Hatara Junior High School
-
 ## Programming Language
 
 ### 【★★★】 Love

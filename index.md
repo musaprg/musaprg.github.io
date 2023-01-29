@@ -62,7 +62,9 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 - C++
 - Java
 - JavaScript
+- Dart (Flutter)
 - Kotlin
+- PHP
 - Swift
 - TypeScript
 - Ruby
@@ -70,9 +72,7 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 
 ### 【★☆☆】 Know how to write application
 
-- Dart (Flutter)
 - Scala
-- PHP
 
 ### 【☆☆☆】 Know how to say hello
 

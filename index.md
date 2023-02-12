@@ -82,7 +82,7 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 ## Activities
 #### 2022
 - 2022/2/26 - 2022/2/27  
-[ICTSC2021 Winter]() (team: mis1yakudo, 1st)
+[ICTSC2021 Winter](https://icttoracon.net/archives/8962) (team: mis1yakudo, 1st)
 
 #### 2021
 - 2021/8/28 - 2021/8/29  

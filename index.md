@@ -27,12 +27,11 @@ Email: mail [at] mssn.dev OR k.musaino [at] gmail.com
 
 Phone: +8170(8381)3827 OR 070(8381)3827 <10:00am - 7:00pm JST>
 
-[<img src="https://grass-graph.appspot.com/images/musaprg.png">](https://github.com/musaprg)
-
 If you want to see my work-related info, please go to my [Linkedin](https://www.linkedin.com/in/musaprg).
 
 ## Interests
 
+- Containers
 - Distributed System
 - Automation
 - Secure Computing (esp., Homomorphic Encryption)

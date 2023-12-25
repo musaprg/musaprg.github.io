@@ -139,6 +139,7 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 
 ## Publications
 ### Tech Event
+- "Leveraging Cluster-API for Production-Ready Multi-Regional Infrastructures", KubeCon & CloudNativeCon North America 2023, Nov. 2023. [video](https://youtu.be/BDjhGEVJ0Gs)
 - "Zigでコンテナランタイム作ってみた", 第55回情報科学若手の会, Sep. 2022. [slides](https://speakerdeck.com/line_developers/i-made-a-container-runtime-with-zig)
 
 ### Academic Conference / Workshop (Peer-reviewed)

@@ -137,6 +137,8 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0a85038d-82e6-4c8b-ba79-c7f43c02796f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2d1e74a1-c065-434d-8d7d-ac974154751e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## Publications
 ### Tech Event
 - "Leveraging Cluster-API for Production-Ready Multi-Regional Infrastructures", KubeCon & CloudNativeCon North America 2023, Nov. 2023. [video](https://youtu.be/BDjhGEVJ0Gs)

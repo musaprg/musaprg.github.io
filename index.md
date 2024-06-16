@@ -139,10 +139,14 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2d1e74a1-c065-434d-8d7d-ac974154751e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-## Publications
-### Tech Event
+## Talks
+
+- "BuildKitの不可解な挙動とGoのFileModeの仕様", 情報科学若手の会春の陣2024, Mar. 2024. [slides](https://speakerdeck.com/musaprg/buildkitnobu-ke-jie-naju-dong-togonofilemodenoshi-yang)
 - "Leveraging Cluster-API for Production-Ready Multi-Regional Infrastructures", KubeCon & CloudNativeCon North America 2023, Nov. 2023. [video](https://youtu.be/BDjhGEVJ0Gs)
+- "ソフトウェアエンジニアという選択肢", 早稲田大学本庄高等学院 キャリアデザインウィーク, Sep. 2022.
 - "Zigでコンテナランタイム作ってみた", 第55回情報科学若手の会, Sep. 2022. [slides](https://speakerdeck.com/line_developers/i-made-a-container-runtime-with-zig)
+
+## Publications
 
 ### Academic Conference / Workshop (Peer-reviewed)
 - **Kotaro Inoue**, Takuya Suzuki, and Hayato Yamana. 2022. Acceleration of Homomorphic Unrolled Trace-Type Function using AVX512 instructions. In Proceedings of the 10th Workshop on Encrypted Computing & Applied Homomorphic Cryptography (WAHC'22). Association for Computing Machinery, New York, NY, USA, 47–52. https://doi.org/10.1145/3560827.3563374

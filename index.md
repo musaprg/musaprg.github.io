@@ -130,6 +130,8 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2d1e74a1-c065-434d-8d7d-ac974154751e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7db5fb2b-9754-4f2f-9b7e-593d86da3579" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## Links 🔗
 
 NOTE: Basically I take my accounts as `musaprg`.

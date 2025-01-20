@@ -122,6 +122,8 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 
 ![](https://projecteuler.net/profile/musaprg.png)
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2fdfd3c1-3420-4e0d-8c20-7299854fe96c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6d0ebe8d-b1f4-4f68-874f-900f346d3529" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0a85038d-82e6-4c8b-ba79-c7f43c02796f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
@@ -131,6 +133,8 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2d1e74a1-c065-434d-8d7d-ac974154751e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7db5fb2b-9754-4f2f-9b7e-593d86da3579" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="aca9bd6d-9cbd-45c0-977d-d6befd1477f1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## Links 🔗
 

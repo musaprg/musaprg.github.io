@@ -50,6 +50,7 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 
 ## Talks
 
+- "OTel meets Wasm: プラグイン機構としてのWebAssemblyから見る次世代のObservability", CloudNative Days Summer 2025, May. 2025. [slides](https://speakerdeck.com/lycorptech_jp/cnds2025-otel-meets-wasm) [video](https://event.cloudnativedays.jp/cnds2025/talks/2626)
 - "A Hidden Pitfall of K8s DNS with Spring Webflux", Kubernetes Meetup Tokyo #69, Feb. 2025. [slides](https://speakerdeck.com/musaprg/a-hidden-pitfall-of-k8s-dns-with-spring-webflux) [video](https://www.youtube.com/live/k75tv-U0SwA?si=brZirt63mlkQpQl-&t=5247)
 - "BuildKitの不可解な挙動とGoのFileModeの仕様", 情報科学若手の会春の陣2024, Mar. 2024. [slides](https://speakerdeck.com/musaprg/buildkitnobu-ke-jie-naju-dong-togonofilemodenoshi-yang)
 - "Leveraging Cluster-API for Production-Ready Multi-Regional Infrastructures", KubeCon & CloudNativeCon North America 2023, Nov. 2023. [video](https://youtu.be/BDjhGEVJ0Gs)

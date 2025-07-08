@@ -25,9 +25,10 @@ Handle: むさしん(mu'sashi-n), musaprg
 
 Email: mail [at] mssn.dev OR k.musaino [at] gmail.com
 
-Phone: +8170(8381)3827 OR 070(8381)3827 <10:00am - 7:00pm JST>
+You can find my career profile on [LinkedIn](https://www.linkedin.com/in/musaprg).
 
-If you want to see my work-related info, please go to my [Linkedin](https://www.linkedin.com/in/musaprg).
+I’m currently not accepting phone calls or messages from staffing agencies. I may not answer calls from numbers I don’t recognize.  
+If you’d like to contact me by phone, please send me an email first.
 
 ## Interests
 

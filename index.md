@@ -143,6 +143,18 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="aca9bd6d-9cbd-45c0-977d-d6befd1477f1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ece189e6-8950-4873-b0c0-293a8bc382b5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a7208d3e-0056-4971-8dad-554c8ca729a9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="473fdc1a-38ec-4749-847f-07a12f6fa728" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="17474e2f-02ec-45ce-a3e0-54876680b958" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="53832fa5-204e-4efc-a2d9-b447e8bad096" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c32def44-6156-4502-93c0-42cc15154412" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## Links 🔗
 
 NOTE: Basically I take my accounts as `musaprg`.

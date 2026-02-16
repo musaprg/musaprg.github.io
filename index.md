@@ -30,7 +30,7 @@ You can find my career profile on [LinkedIn](https://www.linkedin.com/in/musaprg
 I’m currently not accepting phone calls or messages from staffing agencies. I may not answer calls from numbers I don’t recognize.  
 If you’d like to contact me by phone, please send me an email first.
 
-Consider sponsorship for my future products:
+Please consider sponsorship for my future products!
 
 <iframe src="https://github.com/sponsors/musaprg/card" title="Sponsor musaprg" height="225" width="600" style="border: 0;"></iframe>
 

@@ -55,12 +55,12 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 
 ## Talks
 
-- "OTel meets Wasm: Rethinking OpenTelemetry Collector Extensibility", KubeCon + CloudNativeCon Japan 2026, July. 2026. [slides](https://speakerdeck.com/musaprg/otel-meets-wasm-rethinking-opentelemetry-collector-extensibility) [Conference page](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/program/schedule/?id=1194684)
+- "OTel meets Wasm: Rethinking OpenTelemetry Collector Extensibility", KubeCon + CloudNativeCon Japan 2026, July. 2026. [slides](https://speakerdeck.com/musaprg/otel-meets-wasm-rethinking-opentelemetry-collector-extensibility) [video (TBD)]()
 - "OTel meets Wasm: プラグイン機構としてのWebAssemblyから見る次世代のObservability", CloudNative Days Summer 2025, May. 2025. [slides](https://speakerdeck.com/lycorptech_jp/cnds2025-otel-meets-wasm) [video](https://event.cloudnativedays.jp/cnds2025/talks/2626)
 - "（俺的）超絶便利な自作ツールたちの紹介タイム", 情報科学若手の会 春の陣2025, Mar. 2025. [slides](https://speakerdeck.com/musaprg/an-de-chao-jue-bian-li-nazi-zuo-turutatinoshao-jie-taimu)
 - "A Hidden Pitfall of K8s DNS with Spring Webflux", Kubernetes Meetup Tokyo #69, Feb. 2025. [slides](https://speakerdeck.com/musaprg/a-hidden-pitfall-of-k8s-dns-with-spring-webflux) [video](https://www.youtube.com/live/k75tv-U0SwA?si=brZirt63mlkQpQl-&t=5247)
 - "BuildKitの不可解な挙動とGoのFileModeの仕様", 情報科学若手の会春の陣2024, Mar. 2024. [slides](https://speakerdeck.com/musaprg/buildkitnobu-ke-jie-naju-dong-togonofilemodenoshi-yang)
-- "Leveraging Cluster-API for Production-Ready Multi-Regional Infrastructures", KubeCon & CloudNativeCon North America 2023, Nov. 2023. [video](https://youtu.be/BDjhGEVJ0Gs)
+- "Leveraging Cluster-API for Production-Ready Multi-Regional Infrastructures", KubeCon & CloudNativeCon North America 2023, Nov. 2023. [slides](https://static.sched.com/hosted_files/kccncna2023/18/leveraging_cluster_api_for_production_ready_multi_regional_infrastructure.pdf) [video](https://youtu.be/BDjhGEVJ0Gs)
 - "ソフトウェアエンジニアという選択肢", 早稲田大学本庄高等学院 キャリアデザインウィーク, Sep. 2022.
 - "Zigでコンテナランタイム作ってみた", 第55回情報科学若手の会, Sep. 2022. [slides](https://speakerdeck.com/line_developers/i-made-a-container-runtime-with-zig)
 

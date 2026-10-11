@@ -55,7 +55,7 @@ Yamana Laboratory, Secure Computing Group. [link](https://www.yama.info.waseda.a
 
 ## Talks
 
-- "OTel meets Wasm: Rethinking OpenTelemetry Collector Extensibility", KubeCon + CloudNativeCon Japan 2026, July. 2026. [slides](https://speakerdeck.com/musaprg/otel-meets-wasm-rethinking-opentelemetry-collector-extensibility) [video (TBD)]()
+- "OTel meets Wasm: Rethinking OpenTelemetry Collector Extensibility", KubeCon + CloudNativeCon Japan 2026, July. 2026. [slides](https://speakerdeck.com/musaprg/otel-meets-wasm-rethinking-opentelemetry-collector-extensibility) [video](https://youtu.be/zvdaQXDRRXQ)
 - "OTel meets Wasm: プラグイン機構としてのWebAssemblyから見る次世代のObservability", CloudNative Days Summer 2025, May. 2025. [slides](https://speakerdeck.com/lycorptech_jp/cnds2025-otel-meets-wasm) [video](https://event.cloudnativedays.jp/cnds2025/talks/2626)
 - "（俺的）超絶便利な自作ツールたちの紹介タイム", 情報科学若手の会 春の陣2025, Mar. 2025. [slides](https://speakerdeck.com/musaprg/an-de-chao-jue-bian-li-nazi-zuo-turutatinoshao-jie-taimu)
 - "A Hidden Pitfall of K8s DNS with Spring Webflux", Kubernetes Meetup Tokyo #69, Feb. 2025. [slides](https://speakerdeck.com/musaprg/a-hidden-pitfall-of-k8s-dns-with-spring-webflux) [video](https://www.youtube.com/live/k75tv-U0SwA?si=brZirt63mlkQpQl-&t=5247)
